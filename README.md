@@ -35,7 +35,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ItaloPereiraDev&show_icons=true&theme=vision-friendly-dark" alt="Ítalo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloPereiraDev&layout=compact&theme=vision-friendly-dark" alt="Ítalo's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloPereiraDev&theme=vision-friendly-dark" alt="Ítalo's most used languages"/>
 </p>
 
 ## 🧑🏻 &nbsp;Social Links
