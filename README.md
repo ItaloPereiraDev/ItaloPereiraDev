@@ -9,7 +9,7 @@
 
 - 📬 You can contact me by my cellphone number: **+5585989651999**
 
-- 💡 In my github page, you will find some projects that i've made to test myself and to fix the knowledge in my head
+- 💡 In my github page, you will find some projects that i've made to test myself and to fix the knowledge in my head!
 
 - ☀️ Hope you have a great day!
 
