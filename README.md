@@ -3,7 +3,7 @@
 
 - 🔥 Starting in Web Development and want to keep improving! 
 
-- 🔭 I’m currently looking for a job!
+- 🔭 I’m currently working for Tecnorise Company, which focuses on bulding apps for security!
 
 - 🌱 The next technologies i'm planning to start my studies are: ReactJS and React Native!
 
