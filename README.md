@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ítalo Pereira!</h1>
+<h1 align="left">Hi <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">, I'm Ítalo Pereira!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ItaloPereiraDev&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Starting in Web Development and want to keep improving! 
