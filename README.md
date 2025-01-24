@@ -3,9 +3,9 @@
 
 - 🔥 Starting in Web Development and want to keep improving! 
 
-- 🔭 I’m currently working for Tecnorise Company, which focuses on bulding apps for security!
+- 🔭 I’ve worked for Tecnorise and Ecoportal, two companies which focus is on bulding apps for security!
 
-- 🌱 The next technologies i'm planning to start my studies are: ReactJS and React Native!
+- 🌱 The next technologies i'm planning to start my studies are: C# and .Net!
 
 - 📬 You can contact me by my cellphone number: **+5585989651999**
 
@@ -22,6 +22,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=C)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
